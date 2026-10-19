@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Webpage Scraper logo" width="180">
+</p>
+
 # Web Page Content Extractor
 
 A Python API for extracting structured text content from web pages, preserving document hierarchy and styling information. This tool uses Playwright for reliable web page rendering and content extraction.
